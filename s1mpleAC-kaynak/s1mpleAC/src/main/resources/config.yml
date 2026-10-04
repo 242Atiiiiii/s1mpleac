@@ -1,0 +1,10 @@
+# s1mple anticheat ayarlari
+remove-after-minutes: 30      # Bu kadar suredir flag yemeyen oyuncu /sus listesinden duser
+speed:
+  max-per-move: 0.70
+reach:
+  max: 3.6
+killaura:
+  max-angle: 75
+autoclicker:
+  max-cps: 22

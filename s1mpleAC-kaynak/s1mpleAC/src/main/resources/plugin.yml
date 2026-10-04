@@ -1,0 +1,18 @@
+name: s1mpleAC
+version: 1.0.0
+main: com.s1mple.ac.S1mpleAC
+api-version: "26.2"
+author: s1mple
+description: s1mple anticheat
+commands:
+  sus:
+    description: Hile suphelilerini goster
+    usage: /sus [bitir|temizle <oyuncu|hepsi>]
+    permission: s1mple.sus
+permissions:
+  s1mple.sus:
+    default: op
+  s1mple.alerts:
+    default: op
+  s1mple.bypass:
+    default: false
